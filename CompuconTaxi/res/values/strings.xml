@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CompuconTaxiClient</string>
+    <string name="menu_settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="NO_USER_LOC_TTL">User location could not be determined</string>
+    <string name="NO_USER_LOC_MSG">Your location could not be determined. Please enable the location services and try again. Alternatively, you could point a location on the map.</string>
+    <string name="CALL_BTN">Request taxis</string>
+    <string name="CANCEL_BTN">Cancel</string>
+    <string name="EXIT">Exit</string>
+    <string name="SAVE">Save</string>
+    <string name="NO_SUCH_ADDRESS_TTL">Address not found</string>
+    <string name="NO_SUCH_ADDRESS_MSG">The address you requested was not found.Please try again.</string>
+    <string name="TAXI_SEL_CANCEL">Select which taxis to cancel</string>
+    <string name="SEL_TAXI_NO_TTL">Select the number of taxis</string>
+    <string name="START_REQ">Start</string>
+    <string name="CNCL_TAXI_TTL">Confirm cancellation</string>
+    <string name="CNCL_TAXI_MSG">Are you sure you want to cancel taxi #_d?</string>
+    <string name="ACCOUNT">Account</string>
+    <string name="LOCATION">My Location</string>
+    <string name="HALE">Hail</string>
+    <string name="CALL">Call</string>
+    <string name="SETTINGS">Settings</string>
+    <string name="EDIT_TEL_TTL">Edit phone number</string>
+    <string name="TOG_LANG">Toggle language</string>
+    <string name="TOG_DEMO">Turn demo _@</string>
+    <string name="DEMO_ON">on</string>
+    <string name="DEMO_OFF">off</string>
+    <string name="HINT">Type Address</string>
+    <string name="FAIL">Failed!</string>
+    <string name="YES">Yes</string>
+    <string name="NO">No</string>
+    <string name="SECS">seconds</string>
+    <string name="OK">OK</string>
+    <string name="ALERT_TITLE1">Do you want to enable GPS?</string>
+    <string name="ALERT_MESSAGE1">For better results you should enable GPS</string>
+    <string name="ALERT_TITLE2">Is this your current location?</string>
+    <string name="ALERT_TOAST2">Your current location saved</string>
+    <string name="MARKER_TITLE2">Current location</string>
+    <string name="ALERT_TITLE3">Number of cabs</string>
+    <string name="ALERT_TILTE4">Hallo</string>
+    <string name="ALERT_MESSAGE4">You requested</string>
+    <string name="ALERT_MESSAGE4_1">cab(s) at</string>
+    <string name="ALERT_MESSAGE4_2">Are you sure you want to continue?</string>
+    <string name="ALERT_TITLE5">Your request just posted</string>
+    <string name="ALERT_MESSAGE5">Call ID = </string>
+    <string name="ALERT_MESSAGE5_1">Taxi ID = </string>
+    <string name="ALERT_MESSAGE5_2">Remaining time = </string>
+    <string name="TRY_AGAIN">Try again or long click on the map to point your current location</string>
+    <string name="PROGRESS_DIALOG">Please waint...</string>
+    <string name="ALERT_DIALOG_ARRIVED">Your Taxi just Arrived!</string>
+    <string name="THANKS">Thank you</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">CompuconTaxi</string>
+    <string name="menu_settings">Ρυθμίσεις</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="CALL_BTN">Κάλεσμα ταξί</string>
+    <string name="CANCEL_BTN">Ακύρωση</string>
+    <string name="EXIT">Έξοδος</string>
+    <string name="SAVE">Αποθήκευση</string>
+    <string name="NO_SUCH_ADDRESS_TTL">Δεν βρέθηκε η οδοός</string>
+    <string name="NO_SUCH_ADDRESS_MSG">Η οδός που ζητήσατε δεν βρέθηκε. Παρακαλώ δοκιμάστε ξανά</string>
+    <string name="TAXI_SEL_CANCEL">Επιλέξτε ποιά ταξαξί θα ακυρώσετε</string>
+    <string name="START_REQ">Έναρξη</string>
+    <string name="CNCL_TAXI_TTL">Αποδοχή ακύρωσης</string>
+    <string name="CNCL_TAXI_MSG">Είστε σίγουροι οτι θέλετε να ακυρώσετε το κάλσεμα;</string>
+    <string name="ACCOUNT">Λογαριασμός</string>
+    <string name="LOCATION">Η θέση μου</string>
+    <string name="HALE">Κάλεσμα</string>
+    <string name="CALL">Τηλεφ. Κλήση</string>
+    <string name="DEMO_ON">on</string>
+    <string name="DEMO_OFF">off</string>
+    <string name="HINT">Πληκτρολογίστε τη διεύθυνση</string>
+    <string name="FAIL">Απέτυχε!</string>
+    <string name="YES">Ναι</string>
+    <string name="NO">Όχι</string>
+    <string name="SECS">δευτερόλεπτα</string>
+    <string name="OK">Εντάξει</string>
+    <string name="ALERT_TITLE1">Θέλετε να ενεργοποιήσετε το GPS?</string>
+    <string name="ALERT_MESSAGE1">Για ποιό ακριβή αποτελέσματα θα πρέπει να ενεργοποιήσετε το GPS</string>
+    <string name="ALERT_TITLE2">Είναι αυτή η τοποθεσία σας;</string>
+    <string name="ALERT_TOAST2">Η τοποθεσία σας αποθηκεύτηκε</string>
+    <string name="MARKER_TITLE2">Η τοποθεσία μου</string>
+    <string name="ALERT_TITLE3">Επιλέξτε τον αριθμό των ταξί</string>
+    <string name="ALERT_TILTE4">Γειά,</string>
+    <string name="ALERT_MESSAGE4">Έχετε ζητήσει</string>
+    <string name="ALERT_MESSAGE4_1">ταξί στην οδό</string>
+    <string name="ALERT_MESSAGE4_2">Είστε σίγουροι οτι θέλετε να συνεχίσετε;</string>
+    <string name="ALERT_TITLE5">Το αίτημά σας καταχωρήθηκε</string>
+    <string name="ALERT_MESSAGE5">ID Κλήσης = </string>
+    <string name="ALERT_MESSAGE5_1">ID Ταξι = </string>
+    <string name="ALERT_MESSAGE5_2">Εναπομείναν χρόνος = </string>
+    <string name="TRY_AGAIN">Δοκιμάστε ξανά ή πατήστε παρατεταμένα πάνω στον χάρτη για να επιλέξετε την τοποθεσία σας</string>
+    <string name="PROGRESS_DIALOG">Παρακαλώ περιμένετε...</string>
+    <string name="ALERT_DIALOG_ARRIVED">Το ταξί σας έχει αφηχθεί</string>
+    <string name="THANKS">Ευχαριστώ</string>
+</resources>

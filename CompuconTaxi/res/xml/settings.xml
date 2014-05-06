@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <PreferenceCategory android:title="Account Settings">
+        <PreferenceScreen android:title="User Account" android:key="account_settings">
+            <EditTextPreference
+                android:title="First Name"
+                android:key="fname"
+                android:summary="Write your first name">
+            </EditTextPreference>
+            
+             <EditTextPreference
+                android:title="Last Name"
+                android:key="lname"
+                android:summary="Write your last name">
+            </EditTextPreference>
+            
+             <EditTextPreference
+                android:title="Mobile Phone Number"
+                android:key="number"
+                android:summary="Write your phone number">
+            </EditTextPreference>
+            
+              <EditTextPreference
+                android:title="City"
+                android:key="city"
+                android:summary="Write the name of your city">
+            </EditTextPreference>
+            
+              <EditTextPreference
+                android:title="Address"
+                android:key="address"
+                android:summary="Write the name of your address">
+            </EditTextPreference>
+            
+              <EditTextPreference
+                android:title="Address Number"
+                android:key="address_num"
+                android:summary="Write the number of your address">
+            </EditTextPreference>
+            
+              <EditTextPreference
+                android:title="Municipality"
+                android:key="municipality"
+                android:summary="Write the name of your munisipality">
+            </EditTextPreference>
+            
+        </PreferenceScreen>
+        
+    </PreferenceCategory>
+   
+    <PreferenceCategory android:title="User Settings">
+	     <EditTextPreference
+        	android:title="Center Number"
+        	android:key="centerNumber"
+        	android:summary="User cannot change it!"
+        	android:enabled="false">
+    	</EditTextPreference>
+	    <ListPreference
+	        android:title="Language"
+	        android:key="lang"
+	        android:summary="Chose language"
+	        android:entries="@array/langList"
+	        android:entryValues="@array/langVal">
+	    </ListPreference>
+    </PreferenceCategory>
+
+
+</PreferenceScreen>
